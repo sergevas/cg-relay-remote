@@ -8,7 +8,7 @@ const uint8_t PIN_D7 = D7;
 const uint8_t PIN_D8 = D8;
 
 const char* WIFI_SSID = "IoT";
-const char* WIFI_PASSWORD = "VeryL0ngPas$wd!2015";
+const char* WIFI_PASSWORD = "********";
 const int WIFI_NUM_OF_RETRIES = 20;
 const uint32_t NETWORK_ERROR_RECOVERY_DELAY = 600000000;
 
