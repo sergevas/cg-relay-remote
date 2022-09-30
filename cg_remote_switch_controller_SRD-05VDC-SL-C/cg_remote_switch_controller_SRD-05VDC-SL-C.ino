@@ -1,3 +1,7 @@
+/*
+ * Connected Garden Actuator: Switch Remote Control API. Allows remote control switch, consisting of ESP8266 and SRD-05VDC-SL-C relay.
+*/
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <ArduinoJson.h>
